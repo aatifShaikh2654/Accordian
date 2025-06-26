@@ -1,0 +1,21 @@
+.accordian_header {
+    border-radius: 8px;
+    width: 100%;
+    text-align: start;
+    cursor: pointer;
+    padding: 1em;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.accordian_content {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid #ddd;
+    max-height: 300px;
+    overflow: hidden;
+    padding-left: 1em;
+    padding-right: 1em;
+}

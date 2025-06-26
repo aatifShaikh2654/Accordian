@@ -1,5 +1,5 @@
 'use client'
-import React, { useState } from 'react'
+import React from 'react'
 import { contentType } from '../Home'
 import styles from '../accordian.module.css'
 import { LiaAngleDownSolid } from "react-icons/lia";
